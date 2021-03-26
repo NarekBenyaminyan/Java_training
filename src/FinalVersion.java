@@ -1,4 +1,5 @@
-public class first {
+public class FinalVersion {
+
     public static void main(String[] args) {
         int num = 10;
 
@@ -20,7 +21,8 @@ public class first {
                     } else {
                         System.out.print(sym[sym.length - xc]);
                     }
-                }System.out.println(" ");
+                }
+                System.out.println(" ");
             }
 
         }
